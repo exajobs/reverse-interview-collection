@@ -1,5 +1,8 @@
 # Reverse Interview Questions Collection
 
+> Welcome To The Reverse Interview Collection. An ongoing curated list of important questions to ask about the role, team, tech, and company Questions to ask the company during your interview.
+> Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
+
 
 This is a list of questions which may be interesting to a tech job applicant.
 The points are not ordered and many may not apply to a given position, or work type.
